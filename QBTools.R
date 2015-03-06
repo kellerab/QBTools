@@ -7,7 +7,7 @@
 #
 # Last update: 2015/06/03
 #
-# Notes: This file contains functions from alpha diversity week 1 exercise
+# Notes: This file contains functions from alpha diversity exercise
 #
 ################################################################################
 
