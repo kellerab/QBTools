@@ -1,6 +1,7 @@
-###############################################################################################
+################################################################################
 #
-# Quantitative Biodiversity Functions Source Code; Spring 2015 Course, taught by Dr. Jay Lennon
+# Quantitative Biodiversity Functions Source Code; Spring 2015 Course, taught by
+#     Dr. Jay Lennon
 #
 # Written by: Adrienne Keller
 #
@@ -8,7 +9,7 @@
 #
 # Notes: This file contains functions from alpha diversity week 1 exercise
 #
-#################################################################################################
+################################################################################
 
 require("vegan")||install.packages("vegan"); require("vegan")
 
